@@ -11,7 +11,7 @@ The examples provided cover distinct areas such as:
 - Basic Stock market analysis of technology stocks
 
 
-![Titanic Age vs PClass](learning-python-for-data-analysis-and-visualization/images/Stocks Corr.png)
+![Titanic Age vs PClass](https://github.com/pedroa2silva/learning-python-for-data-analysis-and-visualization/images/Stocks Corr.png)
 
 
 The course has a few years but it’s content is still relevant (and I think it will continue to be for a very long time). It was built using Python 2 and with the most recent pandas, matplotlib and seaborn versions available at the time.
