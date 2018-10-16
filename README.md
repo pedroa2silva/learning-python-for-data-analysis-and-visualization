@@ -11,7 +11,7 @@ The examples provided cover distinct areas such as:
 - Basic Stock market analysis of technology stocks
 
 
-![Titanic Age vs PClass!](images/Titanic Age PClass.png)
+![Titanic Age vs PClass](images/Titanic Age PClass.png)
 
 
 The course has a few years but it’s content is still relevant (and I think it will continue to be for a very long time). It was built using Python 2 and with the most recent pandas, matplotlib and seaborn versions available at the time.
@@ -30,5 +30,5 @@ Nevertheless, the final result was pretty close and it was fun to find solutions
 
 **Hope you find it useful and have fun!**
 
-![Socks Correlation!](images/Stocks Corr.png)
+![Socks Correlation](images/Stocks Corr.png)
 
